@@ -8,4 +8,4 @@ resources:
   - ingress.yaml
 images:
   - name: ghcr.io/mattmcguin/nextjs-hello-world
-    newTag: "main"
+    newTag: "8fc8d6f649f6"
